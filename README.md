@@ -18,3 +18,13 @@
 - https://g-session.github.io/wallpaper-privacy/support/zh-Hant/
 
 繁体字の使い方、購入・復元・返金の案内と問い合わせ先。1.3.0の台湾向け掲載に使用する。
+
+## 2026-10-19 改定版
+
+`privacy/2026-10-19/` に、共有メニューから受け取る写真の一時保存・投げ銭・背景設定の項目と、カナダの個人情報の責任者を追記した改定版を置く（日本語・英語・台湾・香港）。アプリ内文面（`wallpaper/Presentation/Settings/Legal/LegalDocument+PrivacyPolicy.swift`）と段落単位で一致を確認済み。次の版の App Store ポリシー URL はこちらを参照する。`privacy/2026-10-13/` は 1.5.0 までの参照先として保持する。
+
+あわせて、利用規約（`terms/ja/`）と特定商取引法の表記（`tokushoho/ja/`）に投げ銭を追記し、サポートページを現行のアプリに合わせた。
+
+- https://g-session.github.io/wallpaper-privacy/support/ja/
+- https://g-session.github.io/wallpaper-privacy/support/en/ （英語圏5か国向け）
+- https://g-session.github.io/wallpaper-privacy/support/zh-Hant/
