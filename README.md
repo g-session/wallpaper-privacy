@@ -28,3 +28,7 @@
 - https://g-session.github.io/wallpaper-privacy/support/ja/
 - https://g-session.github.io/wallpaper-privacy/support/en/ （英語圏5か国向け）
 - https://g-session.github.io/wallpaper-privacy/support/zh-Hant/
+
+## 2026-10-22 版（韓国語を追加）
+
+`privacy/2026-10-22/` は 2026-10-19 版と同じ本文に、韓国語（`ko/`、個人情報保護法の記載事項を含む）を加え、各ページの言語切り替えに「한국어」を足したもの。韓国語ページはアプリ内文面（`LegalDocument+PrivacyPolicy.swift` の `koreanPrivacyPolicy`）から生成した。韓国向けのサポートページは `support/ko/`。
