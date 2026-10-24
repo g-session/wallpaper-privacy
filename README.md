@@ -36,3 +36,9 @@
 ## 2026-10-23 版（再確認の反映）
 
 `privacy/2026-10-23/` は 2026-10-22 版に次の変更を加えたもの（全言語）。RevenueCat への送信を、購入時だけでなく起動時の購入状態の確認にもあると明記。お問い合わせを Firebase（Cloud Firestore）に保存し、回答から3年で削除すると具体化（韓国語は従来どおり）。英語の UAE の苦情先を AI・データ庁への移管に合わせ、インドの非パーソナライズ広告の説明を見直し、スイスの国外移転を受領者ごとの根拠（DPF・SCC）で記載。アプリ内文面（`LegalDocument+PrivacyPolicy.swift`）の変更から同じ置換を当てて生成した。サポートページのリンクはこの版を参照する。App Store のポリシー URL は次の版で切り替える（それまでは 2026-10-22 版）。
+
+## Android 版（2026-10-24）
+
+`privacy/android/2026-10-24/` は Android 版（`net.nexus_inc.wallpaper`）のプライバシーポリシー。日本語・英語（各国の追加事項を含む）・台湾・香港の繁体字中国語・韓国語。Android のアプリ内文面（wallpaper リポジトリの `android/app/src/main/java/net/nexus_inc/wallpaper/presentation/settings/legal/LegalPrivacyPolicy.kt`）から生成した。iOS 版との違いは、App Store → Google Play、ATT → 広告 ID と広告の同意、Pro の年額・買い切りの記載、共有メニューからの受け取りの記述がないこと。Google Play のポリシー URL はこの版を参照する。
+
+- https://g-session.github.io/wallpaper-privacy/privacy/android/2026-10-24/ja/
